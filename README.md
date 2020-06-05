@@ -19,5 +19,5 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[github.com/brainabuser](https://github.com/brainabuser) and ![Image](src)
+[https://github.com/brainabuser](github.com/brainabuser) and ![Image](src)
 ```
