@@ -20,4 +20,4 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Main github account](https://github.com/brainabuser)
-[Hi, honey!](https://yandex.ru/images/search?text=kendall%20jenner%20hot&from=tabbar&pos=27&img_url=https%3A%2F%2Fwww.wallpapermaiden.com%2Fwallpaper%2F4191%2Fdownload%2F1600x2560%2Fkendall-jenner-bite-finger-face-portrait-black-hair.jpg&rpt=simage)
+[Hi, honey!](/images/candle.jpg)
