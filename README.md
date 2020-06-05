@@ -19,7 +19,5 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link to my github](https://github.com/brainabuser) and ![Image](src)
 ```
-
-### Jekyll Themes
